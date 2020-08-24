@@ -1,4 +1,4 @@
 # ignore all files under kinter
-kinter/*
+kinter/
 address_book.db
 dandd*
