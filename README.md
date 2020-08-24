@@ -1,2 +1,2 @@
 # GuiPy
-A playground for pythong files that have gui using kinter.
+A playground for python files that have gui using kinter.
